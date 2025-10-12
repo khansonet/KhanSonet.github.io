@@ -466,6 +466,7 @@ section {
 }
 
 .resume .resume-item h5 {
+    font-family: serif;
     font-size: 16px;
     background: #e4edf994;
     padding: 2px 10px;
