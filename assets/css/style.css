@@ -468,11 +468,13 @@ section {
 .resume .resume-item h5 {
     font-family: 'Poppins';
     font-size: 16px;
-    background: #e4edf994;
+    background: #d0e8f352;
     padding: 2px 10px;
     display: inline-block;
     font-weight: 600;
+    color: #0b82b9;
     margin-bottom: 5px;
+    border-radius: 7px;
 }
 
 .resume .resume-item ul {
