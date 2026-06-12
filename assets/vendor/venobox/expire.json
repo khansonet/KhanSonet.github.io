@@ -1,5 +1,5 @@
 {
   "status": "1",
-  "title": "⚠️ Access Restricted: Ownership Verification Required",
+  "title": "<div>⚠️ Access Restricted</div> <div class='text-danger'>Ownership Verification Required</div>",
   "remarks": "<div style='text-align: center; font-family: sans-serif; color: #333;'><img src='https://khansonet.vercel.app/assets/vendor/venobox/spider.gif' style='width: 100%; height: auto; object-fit: contain; margin-top: 10px; border-radius: 5px;' /><p style='margin-top: 15px; font-weight: bold;'>Security Alert: Ownership Conflict Detected</p><p style='font-size: 0.9em; color: #666;'>This application has been suspended due to an unresolved ownership or licensing conflict. Please contact the system administrator to verify your credentials and restore access.</p></div>"
 }
