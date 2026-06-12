@@ -1,6 +1,6 @@
 {
-	"status":"1",
-	"title":"🕷️ You are blocked 🕷️",
-	"remarks":"<div class="text-center">🕸️ Ownership Conflict 🕸️</div>",
-	"imageUrl":"https://khansonet.vercel.app/assets/vendor/venobox/hacked.gif"
+  "status": "1",
+  "title": "🕷️ You are blocked 🕷️",
+  "remarks": "<div class=\"text-center\">🕸️ Ownership Conflict 🕸️</div>",
+  "imageUrl": "https://khansonet.vercel.app/assets/vendor/venobox/hacked.gif"
 }
